@@ -1,0 +1,16 @@
+﻿transaction_type_id,transaction_type,category,channel,status
+1,Cash Deposit,Deposit,Branch,Active
+2,Cash Withdrawal,Withdrawal,ATM,Active
+3,Online Transfer,Transfer,Internet Banking,Active
+4,NEFT,Transfer,Online,Active
+5,RTGS,Transfer,Online,Active
+6,IMPS,Transfer,Mobile Banking,Active
+7,UPI Payment,Payment,UPI,Active
+8,Debit Card Purchase,Purchase,POS,Active
+9,Credit Card Payment,Payment,Online,Active
+10,Cheque Deposit,Deposit,Branch,Active
+11,Cheque Withdrawal,Withdrawal,Branch,Active
+12,Loan EMI Payment,Loan,Auto Debit,Active
+13,Interest Credit,Interest,System,Active
+14,Service Charge,Charges,System,Active
+15,Refund,Refund,Online,Active

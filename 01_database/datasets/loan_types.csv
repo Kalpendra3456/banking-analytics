@@ -1,0 +1,13 @@
+﻿loan_type_id,loan_type,category,secured,max_tenure_months,interest_rate_min,interest_rate_max,processing_fee_percent,status
+1,Home Loan,Housing,Yes,360,8.25,10.5,0.5,Active
+2,Personal Loan,Personal,No,84,10.5,18.0,2.0,Active
+3,Car Loan,Vehicle,Yes,84,8.75,12.0,1.0,Active
+4,Education Loan,Education,No,180,8.5,12.5,0.5,Active
+5,Gold Loan,Gold,Yes,36,8.0,11.0,0.5,Active
+6,Business Loan,Business,No,120,11.0,18.0,2.0,Active
+7,MSME Loan,Business,No,180,9.5,15.0,1.5,Active
+8,Loan Against Property,Mortgage,Yes,240,9.0,12.5,1.0,Active
+9,Two Wheeler Loan,Vehicle,Yes,60,9.5,14.0,1.0,Active
+10,Agriculture Loan,Agriculture,Yes,120,7.0,10.0,0.25,Active
+11,Commercial Vehicle Loan,Vehicle,Yes,84,9.5,13.5,1.25,Active
+12,Working Capital Loan,Business,No,36,10.5,16.5,1.5,Active

@@ -1,0 +1,148 @@
+﻿branch_id,branch_code,branch_name,branch_type,ifsc_code,address,city,state,postal_code,country,phone_number,email,manager_name,opening_year,number_of_employees,status
+1,BR0001,Kanpur Branch,Rural,BKAI126225,"H.No. 433, Chaudry Street",Kanpur,Uttar Pradesh,960013,India,8908386379,kanpur1@bankai.com,Harini Mall,2002,22,Active
+2,BR0002,Lucknow Branch,Semi Urban,BKAI809570,"511, Chatterjee Marg",Lucknow,Uttar Pradesh,594078,India,6184959310,lucknow2@bankai.com,Harrison Rai,1997,35,Active
+3,BR0003,Ghaziabad Branch,Corporate,BKAI329258,"52
+Pant Path",Ghaziabad,Uttar Pradesh,419283,India,7648350305,ghaziabad3@bankai.com,Divya Kala,2011,9,Active
+4,BR0004,Amritsar Branch,Corporate,BKAI539898,"72
+Dewan Road",Amritsar,Punjab,884969,India,5328710122,amritsar4@bankai.com,Lakshmi Sidhu,2009,25,Active
+5,BR0005,Mumbai Branch,Corporate,BKAI895667,"01/84
+Choudhury Path",Mumbai,Maharashtra,627048,India,8148932528,mumbai5@bankai.com,Vrinda Bahl,2017,35,Active
+6,BR0006,Varanasi Branch,Rural,BKAI325772,"H.No. 43, Khosla Nagar",Varanasi,Uttar Pradesh,171822,India,8248963834,varanasi6@bankai.com,Jai Kota,1998,13,Active
+7,BR0007,Madurai Branch,Rural,BKAI988662,"H.No. 509, Karpe Circle",Madurai,Tamil Nadu,010310,India,1834738299,madurai7@bankai.com,Ranveer Chandra,2014,24,Active
+8,BR0008,Ranchi Branch,Retail,BKAI662275,"65/667, Chaudhari Nagar",Ranchi,Jharkhand,651333,India,2624731781,ranchi8@bankai.com,Warjas Ganesan,2024,32,Active
+9,BR0009,Hyderabad Branch,Semi Urban,BKAI969693,"73
+Bhargava Marg",Hyderabad,Telangana,606474,India,8723430980,hyderabad9@bankai.com,Yadavi Wali,2023,31,Active
+10,BR0010,Noida Branch,Corporate,BKAI148050,"H.No. 812, Bir Zila",Noida,Uttar Pradesh,619399,India,9169985435,noida10@bankai.com,Charita Shankar,2019,26,Inactive
+11,BR0011,Surat Branch,Urban,BKAI205907,"H.No. 079
+Chaudhry",Surat,Gujarat,838425,India,3542784980,surat11@bankai.com,Aishani D’Alia,2003,37,Active
+12,BR0012,Kochi Branch,Rural,BKAI270555,"82/449, Oza Ganj",Kochi,Kerala,487401,India,4005242786,kochi12@bankai.com,Manthan Banik,2006,21,Active
+13,BR0013,Noida Branch,Corporate,BKAI738720,"82/62
+Morar Nagar",Noida,Uttar Pradesh,053315,India,9232260256,noida13@bankai.com,Lavanya Barad,2012,23,Active
+14,BR0014,Thiruvananthapuram Branch,Semi Urban,BKAI383060,"375
+Kari Road",Thiruvananthapuram,Kerala,036541,India,5868501429,thiruvananthapuram14@bankai.com,Hemani Murthy,2002,28,Active
+15,BR0015,Delhi Branch,Retail,BKAI340174,"81/69
+Kumar Ganj",Delhi,Delhi,608835,India,1595148465,delhi15@bankai.com,Rehaan Salvi,2020,28,Active
+16,BR0016,Noida Branch,Semi Urban,BKAI321231,"29/946
+Acharya Circle",Noida,Uttar Pradesh,436995,India,7738721489,noida16@bankai.com,Umang Issac,2023,28,Active
+17,BR0017,Indore Branch,Urban,BKAI514850,"H.No. 037, Bora",Indore,Madhya Pradesh,693676,India,2016328708,indore17@bankai.com,Ucchal Wali,1999,24,Active
+18,BR0018,Ludhiana Branch,Rural,BKAI665158,"98
+Sehgal Marg",Ludhiana,Punjab,774348,India,3471434558,ludhiana18@bankai.com,Leela Dua,2018,35,Active
+19,BR0019,Kolkata Branch,Corporate,BKAI479580,"H.No. 665, Shukla Circle",Kolkata,West Bengal,036690,India,7054668893,kolkata19@bankai.com,Vedika Balakrishnan,1999,40,Active
+20,BR0020,Delhi Branch,Corporate,BKAI214975,"H.No. 62
+Datta Chowk",Delhi,Delhi,699016,India,7204653755,delhi20@bankai.com,Finn Singhal,2015,18,Active
+21,BR0021,Bhubaneswar Branch,Retail,BKAI725380,"80/531, Balasubramanian Nagar",Bhubaneswar,Odisha,309232,India,1937452991,bhubaneswar21@bankai.com,Devika Prashad,2007,32,Active
+22,BR0022,Ranchi Branch,Rural,BKAI654816,"31/931
+Dara Road",Ranchi,Jharkhand,586518,India,0671657262,ranchi22@bankai.com,Udyati Sarin,2012,8,Active
+23,BR0023,Kanpur Branch,Semi Urban,BKAI814825,"H.No. 31
+Seshadri Road",Kanpur,Uttar Pradesh,799650,India,5273545494,kanpur23@bankai.com,Frederick Khurana,2019,25,Active
+24,BR0024,Coimbatore Branch,Rural,BKAI216970,"83
+Swaminathan Chowk",Coimbatore,Tamil Nadu,014363,India,9578856855,coimbatore24@bankai.com,Vihaan Dara,2008,18,Active
+25,BR0025,Bengaluru Branch,Corporate,BKAI624902,"H.No. 18, Handa Street",Bengaluru,Karnataka,749894,India,3435240824,bengaluru25@bankai.com,Jonathan Swaminathan,2011,14,Active
+26,BR0026,Warangal Branch,Semi Urban,BKAI982554,"H.No. 947, Sastry Chowk",Warangal,Telangana,204711,India,7190229413,warangal26@bankai.com,Lajita Seshadri,2014,20,Active
+27,BR0027,Jaipur Branch,Semi Urban,BKAI665579,"H.No. 96
+Bhasin Road",Jaipur,Rajasthan,334123,India,8120679740,jaipur27@bankai.com,Ekavir Kaur,2024,8,Active
+28,BR0028,Indore Branch,Retail,BKAI120422,"93/618
+Dixit Ganj",Indore,Madhya Pradesh,210249,India,7174648877,indore28@bankai.com,Ekantika Krishna,2024,31,Active
+29,BR0029,Warangal Branch,Retail,BKAI351083,"H.No. 399, Luthra Nagar",Warangal,Telangana,278742,India,7175655125,warangal29@bankai.com,Balhaar Sha,2002,13,Active
+30,BR0030,Indore Branch,Retail,BKAI955662,"H.No. 45, Raval Zila",Indore,Madhya Pradesh,876038,India,9770348247,indore30@bankai.com,Nathan Mukhopadhyay,2019,16,Active
+31,BR0031,Bhopal Branch,Corporate,BKAI676510,"61/31, Dalal Chowk",Bhopal,Madhya Pradesh,748467,India,3782639821,bhopal31@bankai.com,Aarnav Mandal,2003,35,Active
+32,BR0032,Amritsar Branch,Corporate,BKAI891952,"97/27
+Sule Circle",Amritsar,Punjab,588675,India,3963605766,amritsar32@bankai.com,Yadavi Narula,2017,27,Active
+33,BR0033,Kochi Branch,Semi Urban,BKAI559381,"18, Aurora Chowk",Kochi,Kerala,621745,India,1586578091,kochi33@bankai.com,Radha Chaudhari,2009,15,Active
+34,BR0034,Noida Branch,Retail,BKAI454508,"24, Batra Nagar",Noida,Uttar Pradesh,045562,India,8692221969,noida34@bankai.com,Vincent Shenoy,2013,22,Active
+35,BR0035,Mumbai Branch,Retail,BKAI174441,"40
+Mani Chowk",Mumbai,Maharashtra,175946,India,7436713695,mumbai35@bankai.com,Meghana Maharaj,2002,12,Active
+36,BR0036,Coimbatore Branch,Semi Urban,BKAI174299,"09/74, Pandey Ganj",Coimbatore,Tamil Nadu,394210,India,7095214562,coimbatore36@bankai.com,Yachana Mahajan,2002,25,Active
+37,BR0037,Ahmedabad Branch,Corporate,BKAI665427,"H.No. 74, Contractor Path",Ahmedabad,Gujarat,123685,India,6048175496,ahmedabad37@bankai.com,Aryan Narang,2018,38,Active
+38,BR0038,Bhopal Branch,Urban,BKAI946721,"17/461, Bath Street",Bhopal,Madhya Pradesh,471138,India,6758692617,bhopal38@bankai.com,Kamala Kalla,2001,14,Active
+39,BR0039,Bhubaneswar Branch,Urban,BKAI471507,"35
+Pillai Zila",Bhubaneswar,Odisha,064317,India,3900532931,bhubaneswar39@bankai.com,Viraj Narasimhan,2008,37,Active
+40,BR0040,Delhi Branch,Retail,BKAI806073,"04/22, Krishna Circle",Delhi,Delhi,102053,India,0240268117,delhi40@bankai.com,Siya Thakur,1996,33,Active
+41,BR0041,Lucknow Branch,Corporate,BKAI360735,"08/47, Bhat Nagar",Lucknow,Uttar Pradesh,661771,India,5921249985,lucknow41@bankai.com,Sudiksha Tiwari,2001,36,Active
+42,BR0042,Udaipur Branch,Urban,BKAI392075,"H.No. 183
+Seth Marg",Udaipur,Rajasthan,657661,India,6545271111,udaipur42@bankai.com,Darpan Narayan,2002,12,Active
+43,BR0043,Ludhiana Branch,Retail,BKAI202664,"56, Mani Nagar",Ludhiana,Punjab,519832,India,3158514936,ludhiana43@bankai.com,Amara Balakrishnan,2015,8,Active
+44,BR0044,Vadodara Branch,Urban,BKAI274389,"H.No. 45, Ahuja Path",Vadodara,Gujarat,296120,India,8366752545,vadodara44@bankai.com,Nachiket Dugar,2010,38,Active
+45,BR0045,Kolkata Branch,Corporate,BKAI161483,"14/767, Sathe",Kolkata,West Bengal,438156,India,4978403690,kolkata45@bankai.com,Laksh Kumer,2007,8,Inactive
+46,BR0046,Bengaluru Branch,Urban,BKAI922157,"H.No. 10
+Sani Chowk",Bengaluru,Karnataka,268388,India,1606071596,bengaluru46@bankai.com,Ishwar Ravel,2004,35,Active
+47,BR0047,Ludhiana Branch,Urban,BKAI794022,"H.No. 29, Pathak Chowk",Ludhiana,Punjab,613696,India,6453521818,ludhiana47@bankai.com,Manbir Keer,1999,20,Active
+48,BR0048,Delhi Branch,Semi Urban,BKAI707314,"432, Dua",Delhi,Delhi,277997,India,5271774490,delhi48@bankai.com,Triya Seth,1996,28,Active
+49,BR0049,Shimla Branch,Semi Urban,BKAI599948,"H.No. 541, Tripathi Zila",Shimla,Himachal Pradesh,798079,India,5978207151,shimla49@bankai.com,Raksha Sarna,2024,18,Active
+50,BR0050,Raipur Branch,Corporate,BKAI184002,"H.No. 54, Rege Marg",Raipur,Chhattisgarh,905151,India,4492519254,raipur50@bankai.com,Dayita Puri,1997,12,Active
+51,BR0051,Vadodara Branch,Retail,BKAI523389,"816
+Pathak Circle",Vadodara,Gujarat,542357,India,3221418880,vadodara51@bankai.com,Mitesh Gaba,2023,23,Active
+52,BR0052,Nagpur Branch,Retail,BKAI749468,"92/706, Khanna Path",Nagpur,Maharashtra,947383,India,7359774688,nagpur52@bankai.com,Zashil Ben,2008,28,Active
+53,BR0053,Ahmedabad Branch,Rural,BKAI802258,"H.No. 81
+Dash Circle",Ahmedabad,Gujarat,124782,India,1375060685,ahmedabad53@bankai.com,Udarsh Bala,2002,24,Active
+54,BR0054,Warangal Branch,Rural,BKAI579434,"H.No. 522
+Mangat Nagar",Warangal,Telangana,277901,India,4328986143,warangal54@bankai.com,Oni Shankar,2024,12,Active
+55,BR0055,Srinagar Branch,Retail,BKAI690341,"H.No. 798, Varma Nagar",Srinagar,Jammu & Kashmir,246095,India,9621851888,srinagar55@bankai.com,Upma Bassi,1997,21,Active
+56,BR0056,Agra Branch,Retail,BKAI465962,"H.No. 40
+Bir Path",Agra,Uttar Pradesh,319520,India,8527722170,agra56@bankai.com,Benjamin Mutti,2023,23,Active
+57,BR0057,Jaipur Branch,Semi Urban,BKAI559469,"68/74
+Halder Nagar",Jaipur,Rajasthan,505415,India,6765277584,jaipur57@bankai.com,Pranit Memon,2017,27,Active
+58,BR0058,Chandigarh Branch,Semi Urban,BKAI108203,"H.No. 154
+Sehgal Road",Chandigarh,Chandigarh,275705,India,4016582029,chandigarh58@bankai.com,Warinder Peri,2004,14,Active
+59,BR0059,Agra Branch,Retail,BKAI377312,"90
+Dube",Agra,Uttar Pradesh,557192,India,6543102786,agra59@bankai.com,Sanaya Kala,2023,14,Active
+60,BR0060,Varanasi Branch,Rural,BKAI385577,"73/121
+Gera Chowk",Varanasi,Uttar Pradesh,155188,India,4225831323,varanasi60@bankai.com,Unni Dayal,2014,21,Active
+61,BR0061,Ahmedabad Branch,Rural,BKAI820892,"H.No. 467, Roy Circle",Ahmedabad,Gujarat,912517,India,8528922680,ahmedabad61@bankai.com,Nitesh Edwin,2011,39,Active
+62,BR0062,Delhi Branch,Urban,BKAI196781,"35/841
+Hegde Road",Delhi,Delhi,249818,India,9922995900,delhi62@bankai.com,Shivansh Saha,2021,25,Active
+63,BR0063,Coimbatore Branch,Corporate,BKAI908577,"84, Subramanian Road",Coimbatore,Tamil Nadu,647102,India,6773592555,coimbatore63@bankai.com,Eiravati Khurana,2015,24,Active
+64,BR0064,Patna Branch,Urban,BKAI678478,"H.No. 473
+Chatterjee Street",Patna,Bihar,469632,India,9532787747,patna64@bankai.com,Wridesh Kale,2012,8,Active
+65,BR0065,Varanasi Branch,Retail,BKAI672092,"H.No. 047
+Singhal",Varanasi,Uttar Pradesh,801624,India,6506098358,varanasi65@bankai.com,Ati Dani,2021,31,Active
+66,BR0066,Varanasi Branch,Corporate,BKAI550664,"H.No. 655, Pau Circle",Varanasi,Uttar Pradesh,398680,India,0257872982,varanasi66@bankai.com,Maya Mistry,1996,27,Active
+67,BR0067,Nagpur Branch,Corporate,BKAI475190,"88/79
+Soman Road",Nagpur,Maharashtra,551694,India,9749930972,nagpur67@bankai.com,Xavier Balay,2016,23,Active
+68,BR0068,Madurai Branch,Semi Urban,BKAI918011,"075, Doshi Marg",Madurai,Tamil Nadu,368970,India,8385786527,madurai68@bankai.com,Aishani Sule,2023,34,Active
+69,BR0069,Varanasi Branch,Corporate,BKAI348237,"484, Mishra Ganj",Varanasi,Uttar Pradesh,375758,India,4198665240,varanasi69@bankai.com,Aahana Srinivas,2020,19,Active
+70,BR0070,Pune Branch,Rural,BKAI288073,"848, Devan Road",Pune,Maharashtra,993308,India,3016571208,pune70@bankai.com,Ryan Mani,2020,34,Active
+71,BR0071,Vadodara Branch,Corporate,BKAI379766,"H.No. 01
+Kata",Vadodara,Gujarat,262067,India,4004991547,vadodara71@bankai.com,Yamini Sidhu,2020,14,Active
+72,BR0072,Nagpur Branch,Corporate,BKAI593554,"152
+Kurian Chowk",Nagpur,Maharashtra,054932,India,6851612275,nagpur72@bankai.com,Warinder Sekhon,2001,37,Active
+73,BR0073,Surat Branch,Retail,BKAI333752,"H.No. 49
+Apte",Surat,Gujarat,530174,India,6841459332,surat73@bankai.com,Ojasvi Sinha,2016,20,Active
+74,BR0074,Mysuru Branch,Rural,BKAI172792,"918, Wable Chowk",Mysuru,Karnataka,191088,India,9822587139,mysuru74@bankai.com,Christopher Setty,2006,40,Active
+75,BR0075,Amritsar Branch,Retail,BKAI447235,"67/90, Shere Circle",Amritsar,Punjab,064039,India,0651801704,amritsar75@bankai.com,Kavya Raja,1998,24,Active
+76,BR0076,Bengaluru Branch,Retail,BKAI140115,"61
+Deol Circle",Bengaluru,Karnataka,128682,India,0047868633,bengaluru76@bankai.com,Ranbir Chowdhury,2014,35,Active
+77,BR0077,Chennai Branch,Semi Urban,BKAI557592,"69/033, Chaudhuri Zila",Chennai,Tamil Nadu,790306,India,3830284395,chennai77@bankai.com,Chasmum Dhar,2011,15,Active
+78,BR0078,Dehradun Branch,Rural,BKAI299312,"44, Gill Nagar",Dehradun,Uttarakhand,870568,India,6624628733,dehradun78@bankai.com,Nitara Saha,1996,35,Active
+79,BR0079,Amritsar Branch,Corporate,BKAI820221,"34, Narayanan Ganj",Amritsar,Punjab,751830,India,6990139837,amritsar79@bankai.com,Siddharth Gupta,2006,35,Active
+80,BR0080,Coimbatore Branch,Rural,BKAI753425,"73/936, Nagy Ganj",Coimbatore,Tamil Nadu,678544,India,8771753556,coimbatore80@bankai.com,Amol Lal,2016,15,Active
+81,BR0081,Warangal Branch,Rural,BKAI631756,"H.No. 23
+Karpe Path",Warangal,Telangana,937854,India,7725228728,warangal81@bankai.com,Chanakya Ahuja,2016,34,Active
+82,BR0082,Hyderabad Branch,Corporate,BKAI681343,"312
+Kamdar Nagar",Hyderabad,Telangana,509977,India,0886008484,hyderabad82@bankai.com,Hredhaan Char,2001,34,Active
+83,BR0083,Thiruvananthapuram Branch,Corporate,BKAI810219,"398, Pandya Road",Thiruvananthapuram,Kerala,615679,India,3410166687,thiruvananthapuram83@bankai.com,Xalak Saraf,2014,27,Active
+84,BR0084,Mumbai Branch,Rural,BKAI418635,"18/03
+Soman Ganj",Mumbai,Maharashtra,014890,India,5039261429,mumbai84@bankai.com,Leena Dey,2001,35,Active
+85,BR0085,Guwahati Branch,Rural,BKAI786508,"50/16, Borra Ganj",Guwahati,Assam,999650,India,7735866296,guwahati85@bankai.com,Ethan Butala,2009,36,Active
+86,BR0086,Ahmedabad Branch,Urban,BKAI636004,"626
+Patel Path",Ahmedabad,Gujarat,104754,India,2126788861,ahmedabad86@bankai.com,Ekta Rajan,2020,18,Active
+87,BR0087,Hyderabad Branch,Semi Urban,BKAI640490,"H.No. 66, Kibe Zila",Hyderabad,Telangana,622444,India,2126464715,hyderabad87@bankai.com,Tanvi Chhabra,2005,13,Active
+88,BR0088,Vadodara Branch,Rural,BKAI805477,"H.No. 06, Rai Path",Vadodara,Gujarat,756924,India,9375265479,vadodara88@bankai.com,Maya Patla,2002,20,Active
+89,BR0089,Nagpur Branch,Urban,BKAI356736,"39/82, Bala Circle",Nagpur,Maharashtra,374167,India,4342661797,nagpur89@bankai.com,Balhaar Parsa,2014,12,Active
+90,BR0090,Dehradun Branch,Urban,BKAI303880,"H.No. 352, Basu",Dehradun,Uttarakhand,561014,India,8889937567,dehradun90@bankai.com,Aryan Subramanian,2010,33,Active
+91,BR0091,Mumbai Branch,Retail,BKAI887443,"H.No. 61, Dhar Zila",Mumbai,Maharashtra,457387,India,7177514010,mumbai91@bankai.com,Zaitra Ghosh,2019,35,Active
+92,BR0092,Chandigarh Branch,Retail,BKAI587115,"H.No. 86, Kata Chowk",Chandigarh,Chandigarh,226609,India,7966033419,chandigarh92@bankai.com,Eshana Hegde,2012,23,Active
+93,BR0093,Kanpur Branch,Corporate,BKAI578634,"H.No. 478
+Rama Path",Kanpur,Uttar Pradesh,915579,India,4991251341,kanpur93@bankai.com,Omya Devi,2020,37,Active
+94,BR0094,Ludhiana Branch,Rural,BKAI724377,"27
+Ghose Circle",Ludhiana,Punjab,742257,India,5072368876,ludhiana94@bankai.com,Oliver Butala,2019,36,Active
+95,BR0095,Raipur Branch,Semi Urban,BKAI547470,"404, Yogi Ganj",Raipur,Chhattisgarh,279788,India,9148580783,raipur95@bankai.com,Bachittar Sengupta,2009,18,Active
+96,BR0096,Bhopal Branch,Rural,BKAI571932,"H.No. 17
+Khalsa Zila",Bhopal,Madhya Pradesh,959629,India,3309584982,bhopal96@bankai.com,Yoshita Chandran,2019,23,Active
+97,BR0097,Mysuru Branch,Semi Urban,BKAI903013,"04, Deo Street",Mysuru,Karnataka,253672,India,6671168457,mysuru97@bankai.com,Girik Shanker,2010,23,Active
+98,BR0098,Noida Branch,Rural,BKAI848206,"H.No. 863
+Kakar Marg",Noida,Uttar Pradesh,454589,India,9750017012,noida98@bankai.com,Samaksh Deo,2002,25,Active
+99,BR0099,Amritsar Branch,Corporate,BKAI184491,"415
+Butala Road",Amritsar,Punjab,206436,India,1037129387,amritsar99@bankai.com,Pahal Deo,1999,22,Active
+100,BR0100,Varanasi Branch,Corporate,BKAI840734,"H.No. 361
+Chauhan Zila",Varanasi,Uttar Pradesh,542622,India,8909275326,varanasi100@bankai.com,Harish Dey,1997,34,Active
